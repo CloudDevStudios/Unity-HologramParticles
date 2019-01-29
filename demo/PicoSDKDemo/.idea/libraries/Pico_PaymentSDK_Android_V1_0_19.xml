@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Pico_PaymentSDK_Android_V1.0.19">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/Pico_PaymentSDK_Android_V1.0.19.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

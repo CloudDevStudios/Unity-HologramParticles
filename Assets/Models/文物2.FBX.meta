@@ -1,0 +1,233 @@
+fileFormatVersion: 2
+guid: 169ade267b4d62442ad957ba3231b971
+timeCreated: 1548671679
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Line001
+    100002: Omni001
+    100004: Omni002
+    100006: Sphere001
+    100008: Sphere002
+    100010: Sphere003
+    100012: Star012
+    100014: Star013
+    100016: Star014
+    100018: Star015
+    100020: Star016
+    100022: Star017
+    100024: Star018
+    100026: Star019
+    100028: Star020
+    100030: Star021
+    100032: Star029
+    100034: Star030
+    100036: Star031
+    100038: Star032
+    100040: Star033
+    100042: Star034
+    100044: Star035
+    100046: Star036
+    100048: Star037
+    100050: Star038
+    100052: Star039
+    100054: Star040
+    100056: Star041
+    100058: "VR-\u706F\u5149001"
+    100060: "\u5BF9\u8C61001"
+    100062: "\u5BF9\u8C61002"
+    100064: //RootNode
+    100066: "\u7EC4002"
+    400000: Line001
+    400002: Omni001
+    400004: Omni002
+    400006: Sphere001
+    400008: Sphere002
+    400010: Sphere003
+    400012: Star012
+    400014: Star013
+    400016: Star014
+    400018: Star015
+    400020: Star016
+    400022: Star017
+    400024: Star018
+    400026: Star019
+    400028: Star020
+    400030: Star021
+    400032: Star029
+    400034: Star030
+    400036: Star031
+    400038: Star032
+    400040: Star033
+    400042: Star034
+    400044: Star035
+    400046: Star036
+    400048: Star037
+    400050: Star038
+    400052: Star039
+    400054: Star040
+    400056: Star041
+    400058: "VR-\u706F\u5149001"
+    400060: "\u5BF9\u8C61001"
+    400062: "\u5BF9\u8C61002"
+    400064: //RootNode
+    400066: "\u7EC4002"
+    2300000: Line001
+    2300002: Sphere001
+    2300004: Sphere002
+    2300006: Sphere003
+    2300008: Star012
+    2300010: Star013
+    2300012: Star014
+    2300014: Star015
+    2300016: Star016
+    2300018: Star017
+    2300020: Star018
+    2300022: Star019
+    2300024: Star020
+    2300026: Star021
+    2300028: Star029
+    2300030: Star030
+    2300032: Star031
+    2300034: Star032
+    2300036: Star033
+    2300038: Star034
+    2300040: Star035
+    2300042: Star036
+    2300044: Star037
+    2300046: Star038
+    2300048: Star039
+    2300050: Star040
+    2300052: Star041
+    2300054: "\u5BF9\u8C61001"
+    2300056: "\u5BF9\u8C61002"
+    3300000: Line001
+    3300002: Sphere001
+    3300004: Sphere002
+    3300006: Sphere003
+    3300008: Star012
+    3300010: Star013
+    3300012: Star014
+    3300014: Star015
+    3300016: Star016
+    3300018: Star017
+    3300020: Star018
+    3300022: Star019
+    3300024: Star020
+    3300026: Star021
+    3300028: Star029
+    3300030: Star030
+    3300032: Star031
+    3300034: Star032
+    3300036: Star033
+    3300038: Star034
+    3300040: Star035
+    3300042: Star036
+    3300044: Star037
+    3300046: Star038
+    3300048: Star039
+    3300050: Star040
+    3300052: Star041
+    3300054: "\u5BF9\u8C61001"
+    3300056: "\u5BF9\u8C61002"
+    4300000: Line001
+    4300002: Sphere002
+    4300004: Star012
+    4300006: Star013
+    4300008: "\u5BF9\u8C61002"
+    4300010: Star014
+    4300012: Star015
+    4300014: Star016
+    4300016: Star017
+    4300018: Star018
+    4300020: Star019
+    4300022: Star020
+    4300024: Star021
+    4300026: "\u5BF9\u8C61001"
+    4300028: Sphere001
+    4300030: Sphere003
+    4300032: Star029
+    4300034: Star030
+    4300036: Star031
+    4300038: Star032
+    4300040: Star033
+    4300042: Star034
+    4300044: Star035
+    4300046: Star036
+    4300048: Star037
+    4300050: Star038
+    4300052: Star039
+    4300054: Star040
+    4300056: Star041
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
